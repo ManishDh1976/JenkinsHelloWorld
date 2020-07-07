@@ -1,0 +1,5 @@
+abcdfffdfdfdsf1050010000
+
+ JENKINS_URL/job/HelloWorld/build?token=TOKEN_NAME 
+
+http://localhost:8080/job/HelloWorld/build?token=abcdfffdfdfdsf1050010000
